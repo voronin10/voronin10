@@ -14,4 +14,5 @@ First line at GitHub
 work on firmware to ws-ap3825i
 
 https://forum.openwrt.org/t/adding-openwrt-support-for-ws-ap3825i/101168/74
+
 https://github.com/openwrt/openwrt/pull/4911
