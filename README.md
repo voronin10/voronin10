@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @voronin10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Peter Skip ( @voronin10 )
+- 👀 I’m interested in all my projects :)
+- 🌱 I’m currently learning Git
+- 💞️ I’m looking to collaborate on good team.
+- 📫 How to reach me, send message on facebook https://www.facebook.com/petro.skip/
 
 <!---
 voronin10/voronin10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
