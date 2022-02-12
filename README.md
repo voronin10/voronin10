@@ -9,3 +9,8 @@ voronin10/voronin10 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 First line at GitHub
+
+
+work on firmware to ws-ap3825i
+https://forum.openwrt.org/t/adding-openwrt-support-for-ws-ap3825i/101168/74
+https://github.com/openwrt/openwrt/pull/4911
